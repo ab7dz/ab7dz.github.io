@@ -1,9 +1,2 @@
 include:
   - .well-known
-```
-
-**٤.** اضغط **Commit changes**
-
-**٥.** انتظر دقيقتين ثم جرب:
-```
-https://ab7dz.github.io/.well-known/assetlinks.json
