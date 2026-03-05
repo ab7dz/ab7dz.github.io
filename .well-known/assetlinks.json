@@ -2,7 +2,7 @@
       "relation": ["delegate_permission/common.handle_all_urls"],
       "target": {
         "namespace": "android_app",
-        "package_name": "io.github.ab7dz.twa.v5",
-        "sha256_cert_fingerprints": ["E3:AF:9B:FA:2B:AD:19:FF:4C:52:A4:BE:C9:0D:4D:F3:5C:53:01:CE:81:FF:04:B7:5C:F1:17:7B:68:8E:D5:6A"]
+        "package_name": "io.github.ab7dz.kufimaker.v1",
+        "sha256_cert_fingerprints": ["E1:A3:1C:5E:1C:BF:0F:29:1E:0F:48:A6:E0:82:26:49:93:5D:01:9D:EF:FF:A1:7B:FB:8C:C2:EE:D0:83:EB:7F"]
       }
     }]
